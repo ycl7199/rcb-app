@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rcb-app/static/css/main.63dfd3ab.chunk.css",
+    "main.js": "/rcb-app/static/js/main.7748873a.chunk.js",
+    "main.js.map": "/rcb-app/static/js/main.7748873a.chunk.js.map",
+    "runtime-main.js": "/rcb-app/static/js/runtime-main.90ccada4.js",
+    "runtime-main.js.map": "/rcb-app/static/js/runtime-main.90ccada4.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/rcb-app/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.e47da491.chunk.js": "/rcb-app/static/js/2.e47da491.chunk.js",
+    "static/js/2.e47da491.chunk.js.map": "/rcb-app/static/js/2.e47da491.chunk.js.map",
+    "index.html": "/rcb-app/index.html",
+    "precache-manifest.92d936e41fad57f5bad2cb3e81a7f1f6.js": "/rcb-app/precache-manifest.92d936e41fad57f5bad2cb3e81a7f1f6.js",
+    "service-worker.js": "/rcb-app/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/rcb-app/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.63dfd3ab.chunk.css.map": "/rcb-app/static/css/main.63dfd3ab.chunk.css.map",
+    "static/js/2.e47da491.chunk.js.LICENSE.txt": "/rcb-app/static/js/2.e47da491.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90ccada4.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.e47da491.chunk.js",
+    "static/css/main.63dfd3ab.chunk.css",
+    "static/js/main.7748873a.chunk.js"
+  ]
+}
